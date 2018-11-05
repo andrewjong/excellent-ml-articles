@@ -10,4 +10,5 @@ by LJ Miranda (published Aug 13, 2017)
 by Daniel Sieta (published Mar 5, 2017)
 
 ## Math
-- None yet
+- [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+by Will Kurt (published May 10, 2015)
