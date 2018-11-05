@@ -7,7 +7,7 @@ by LJ Miranda (published Aug 13, 2017)
 
 ### GANs
 - [Understanding Generative Adversarial Networks](https://danieltakeshi.github.io/2017/03/05/understanding-generative-adversarial-networks/)
-by Daniel Sieta (published Mar 5, 2017
+by Daniel Sieta (published Mar 5, 2017)
 
 ## Math
 - None yet
