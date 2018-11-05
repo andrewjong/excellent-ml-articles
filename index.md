@@ -3,7 +3,7 @@ Machine learning can be complicated, especially in terms of math. But some jewel
 ## Machine Learning
 ### Loss Functions
 - [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/)
-by LJ Miranda (published Aug 13, 2017) 
+by Lj Miranda (published Aug 13, 2017) 
 
 ### GANs
 - [Understanding Generative Adversarial Networks](https://danieltakeshi.github.io/2017/03/05/understanding-generative-adversarial-networks/)
