@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/andrewjong/excellent-ml-articles/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Machine learning can be complicated, especially in terms of math. But there are some jewels out there that manage to explain things with incredible clarity. This is a personal collection of amazing explanatory articles I come across.
 
 ## Machine Learning
 ### Loss Functions
