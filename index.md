@@ -1,4 +1,4 @@
-Machine learning can be complicated, especially in terms of math. But there are some jewels out there that manage to explain things with incredible clarity. This is a personal collection of amazing explanatory articles I come across.
+Machine learning can be complicated, especially in terms of math. But some jewels out there explain those concepts with clarity. This is a personal collection of amazing explanatory articles I come across.
 
 ## Machine Learning
 ### Loss Functions
